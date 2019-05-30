@@ -316,7 +316,7 @@ span {
 /* BAllOON 2 5*/
 @-webkit-keyframes balloon2 {
     0%, 100% {
-        -webkit-transform: translateY(0) rotate(6eg);
+        -webkit-transform: translateY(0) rotate(6deg);
     }
     50% {
         -webkit-transform: translateY(-30px) rotate(-8deg);
@@ -349,7 +349,7 @@ span {
 /* BAllOON 0*/
 @-webkit-keyframes balloon3 {
     0%, 100% {
-        -webkit-transform: translate(0, -10px) rotate(6eg);
+        -webkit-transform: translate(0, -10px) rotate(6deg);
     }
     50% {
         -webkit-transform: translate(-20px, 30px) rotate(-8deg);
@@ -357,7 +357,7 @@ span {
 }
 @-moz-keyframes balloon3 {
     0%, 100% {
-        -moz-transform: translate(0, -10px) rotate(6eg);
+        -moz-transform: translate(0, -10px) rotate(6deg);
     }
     50% {
         -moz-transform: translate(-20px, 30px) rotate(-8deg);
@@ -365,7 +365,7 @@ span {
 }
 @-o-keyframes balloon3 {
     0%, 100% {
-        -o-transform: translate(0, -10px) rotate(6eg);
+        -o-transform: translate(0, -10px) rotate(6deg);
     }
     50% {
         -o-transform: translate(-20px, 30px) rotate(-8deg);
@@ -373,7 +373,7 @@ span {
 }
 @keyframes balloon3 {
     0%, 100% {
-        transform: translate(0, -10px) rotate(6eg);
+        transform: translate(0, -10px) rotate(6deg);
     }
     50% {
         transform: translate(-20px, 30px) rotate(-8deg);
@@ -382,7 +382,7 @@ span {
 /* BAllOON 3*/
 @-webkit-keyframes balloon4 {
     0%, 100% {
-        -webkit-transform: translate(10px, -10px) rotate(-8eg);
+        -webkit-transform: translate(10px, -10px) rotate(-8deg);
     }
     50% {
         -webkit-transform: translate(-15px, 20px) rotate(10deg);
@@ -390,7 +390,7 @@ span {
 }
 @-moz-keyframes balloon4 {
     0%, 100% {
-        -moz-transform: translate(10px, -10px) rotate(-8eg);
+        -moz-transform: translate(10px, -10px) rotate(-8deg);
     }
     50% {
         -moz-transform: translate(-15px, 10px) rotate(10deg);
@@ -398,7 +398,7 @@ span {
 }
 @-o-keyframes balloon4 {
     0%, 100% {
-        -o-transform: translate(10px, -10px) rotate(-8eg);
+        -o-transform: translate(10px, -10px) rotate(-8deg);
     }
     50% {
         -o-transform: translate(-15px, 10px) rotate(10deg);
@@ -406,7 +406,7 @@ span {
 }
 @keyframes balloon4 {
     0%, 100% {
-        transform: translate(10px, -10px) rotate(-8eg);
+        transform: translate(10px, -10px) rotate(-8deg);
     }
     50% {
         transform: translate(-15px, 10px) rotate(10deg);
